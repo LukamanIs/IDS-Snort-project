@@ -1,0 +1,308 @@
+02/23-14:22:24.405139 [**] [116:414:1] "(ipv4) IPv4 packet to broadcast dest address" [**] [Priority: 3] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+02/23-14:22:24.405139 [**] [116:408:1] "(ipv4) IPv4 packet from 'current net' source address" [**] [Priority: 3] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+02/23-14:22:24.564542 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:22:24.913458 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:22:27.740929 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:22:27.743280 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:22:28.236297 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:22:46.157788 [**] [116:414:1] "(ipv4) IPv4 packet to broadcast dest address" [**] [Priority: 3] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+02/23-14:22:46.157788 [**] [116:408:1] "(ipv4) IPv4 packet from 'current net' source address" [**] [Priority: 3] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+02/23-14:22:46.165597 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.167909 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.170559 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.171155 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.221788 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.223835 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.242617 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.247578 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:22:46.570706 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:23:10.129189 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:23:10.568977 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:23:33.947609 [**] [116:414:1] "(ipv4) IPv4 packet to broadcast dest address" [**] [Priority: 3] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+02/23-14:23:33.947609 [**] [116:408:1] "(ipv4) IPv4 packet from 'current net' source address" [**] [Priority: 3] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+02/23-14:23:34.127996 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:34.130735 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:34.138324 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:34.138728 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:34.389227 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:50.506722 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:50.886716 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:23:58.014588 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:24:09.716522 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:24:34.732726 [**] [119:241:1] "(http_inspect) Content-Transfer-Encoding used as HTTP header" [**] [Priority: 3] {TCP} 64.34.171.228:80 -> 172.16.0.149:49747
+02/23-14:24:49.013378 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:24:54.217532 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:24:57.015437 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:25:30.218929 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:25:55.719299 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:26:19.382309 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:26:27.085129 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:26:51.086061 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:27:18.721891 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:27:47.529136 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:28:19.385894 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:28:59.484612 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 172.16.0.131 -> 74.6.231.20
+02/23-14:28:59.560098 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 74.6.231.20 -> 172.16.0.131
+02/23-14:29:00.496293 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 172.16.0.131 -> 74.6.231.20
+02/23-14:29:00.567226 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 74.6.231.20 -> 172.16.0.131
+02/23-14:29:01.493683 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 172.16.0.131 -> 74.6.231.20
+02/23-14:29:01.577852 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 74.6.231.20 -> 172.16.0.131
+02/23-14:29:02.492666 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 172.16.0.131 -> 74.6.231.20
+02/23-14:29:02.568023 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 74.6.231.20 -> 172.16.0.131
+02/23-14:29:02.723978 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:29:02.886299 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:29:04.224978 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:29:05.738850 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:29:17.604401 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:29:20.007846 [**] [1:59181:1] "MALWARE-OTHER Win.Trojan.WhisperGate backwards DLL download attempt" [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 156.96.154.210:80 -> 172.16.0.131:49200
+02/23-14:29:39.224892 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:30:01.742399 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:30:19.388733 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:30:26.227008 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:30:38.569209 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 23.227.38.74:80 -> 172.16.0.131:49201
+02/23-14:30:38.569209 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 23.227.38.74:80 -> 172.16.0.131:49201
+02/23-14:30:43.839503 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 72.167.191.69:80 -> 172.16.0.131:49202
+02/23-14:30:43.839503 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 72.167.191.69:80 -> 172.16.0.131:49202
+02/23-14:30:48.727687 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:30:49.303606 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 194.9.94.85:80 -> 172.16.0.131:49203
+02/23-14:30:49.303606 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 194.9.94.85:80 -> 172.16.0.131:49203
+02/23-14:30:49.473922 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 172.16.0.131:49203 -> 194.9.94.85:80
+02/23-14:30:51.092576 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:30:54.624955 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 198.54.117.210:80 -> 172.16.0.131:49204
+02/23-14:30:54.624955 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 198.54.117.210:80 -> 172.16.0.131:49204
+02/23-14:31:00.837329 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 120.55.51.124:80 -> 172.16.0.131:49205
+02/23-14:31:00.837329 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 120.55.51.124:80 -> 172.16.0.131:49205
+02/23-14:31:04.247331 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:06.991401 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 216.58.193.147:80 -> 172.16.0.131:49206
+02/23-14:31:06.991401 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 216.58.193.147:80 -> 172.16.0.131:49206
+02/23-14:31:11.728331 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:12.258279 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49207
+02/23-14:31:12.258279 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49207
+02/23-14:31:17.593407 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:17.788063 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 213.186.33.5:80 -> 172.16.0.131:49208
+02/23-14:31:17.788063 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 213.186.33.5:80 -> 172.16.0.131:49208
+02/23-14:31:23.891666 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:24.228819 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:28.064172 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 23.227.38.74:80 -> 172.16.0.131:49209
+02/23-14:31:28.064172 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 23.227.38.74:80 -> 172.16.0.131:49209
+02/23-14:31:28.160415 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 172.16.0.131:49209 -> 23.227.38.74:80
+02/23-14:31:32.729345 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:33.261331 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 216.58.193.147:80 -> 172.16.0.131:49210
+02/23-14:31:33.261331 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 216.58.193.147:80 -> 172.16.0.131:49210
+02/23-14:31:38.930861 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 154.206.65.249:80 -> 172.16.0.131:49211
+02/23-14:31:38.930861 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 154.206.65.249:80 -> 172.16.0.131:49211
+02/23-14:31:44.373599 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 104.21.89.147:80 -> 172.16.0.131:49212
+02/23-14:31:44.373599 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 104.21.89.147:80 -> 172.16.0.131:49212
+02/23-14:31:48.739474 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:31:54.229948 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:02.373612 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 66.235.200.112:80 -> 172.16.0.131:49213
+02/23-14:32:02.373612 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 66.235.200.112:80 -> 172.16.0.131:49213
+02/23-14:32:07.683626 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 198.54.117.215:80 -> 172.16.0.131:49214
+02/23-14:32:07.683626 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 198.54.117.215:80 -> 172.16.0.131:49214
+02/23-14:32:08.392118 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:17.729681 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:19.392180 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:29.968825 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 209.17.116.163:80 -> 172.16.0.131:49215
+02/23-14:32:29.968825 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 209.17.116.163:80 -> 172.16.0.131:49215
+02/23-14:32:34.744268 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:35.187123 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 104.16.12.194:80 -> 172.16.0.131:49216
+02/23-14:32:35.187123 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 104.16.12.194:80 -> 172.16.0.131:49216
+02/23-14:32:39.731188 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:40.618156 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 216.172.184.77:80 -> 172.16.0.131:49217
+02/23-14:32:40.618156 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 216.172.184.77:80 -> 172.16.0.131:49217
+02/23-14:32:45.790942 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49218
+02/23-14:32:45.790942 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49218
+02/23-14:32:51.030630 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 213.186.33.5:80 -> 172.16.0.131:49219
+02/23-14:32:51.030630 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 213.186.33.5:80 -> 172.16.0.131:49219
+02/23-14:32:51.095993 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:59.096271 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:32:59.230436 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:01.232251 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 23.227.38.74:80 -> 172.16.0.131:49220
+02/23-14:33:01.232251 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 23.227.38.74:80 -> 172.16.0.131:49220
+02/23-14:33:01.347618 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 172.16.0.131:49220 -> 23.227.38.74:80
+02/23-14:33:06.404023 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 216.58.193.147:80 -> 172.16.0.131:49221
+02/23-14:33:06.404023 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 216.58.193.147:80 -> 172.16.0.131:49221
+02/23-14:33:11.809498 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 154.206.65.249:80 -> 172.16.0.131:49222
+02/23-14:33:11.809498 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 154.206.65.249:80 -> 172.16.0.131:49222
+02/23-14:33:17.190579 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 104.21.89.147:80 -> 172.16.0.131:49223
+02/23-14:33:17.190579 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 104.21.89.147:80 -> 172.16.0.131:49223
+02/23-14:33:17.280610 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 172.16.0.131:49223 -> 104.21.89.147:80
+02/23-14:33:17.596823 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:30.035919 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 3.130.253.23:80 -> 172.16.0.131:49224
+02/23-14:33:30.035919 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 3.130.253.23:80 -> 172.16.0.131:49224
+02/23-14:33:34.732262 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:34.744102 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:35.309431 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 173.231.37.114:80 -> 172.16.0.131:49225
+02/23-14:33:35.309431 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 173.231.37.114:80 -> 172.16.0.131:49225
+02/23-14:33:38.097074 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:38.232541 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:38.894537 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:48.395550 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:48.732840 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:33:55.591830 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 184.168.99.26:80 -> 172.16.0.131:49226
+02/23-14:33:55.591830 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 184.168.99.26:80 -> 172.16.0.131:49226
+02/23-14:33:55.732197 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:10.098134 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:10.233500 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:16.242027 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:16.733544 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:19.395607 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:29.730640 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49227
+02/23-14:34:29.730640 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49227
+02/23-14:34:29.822912 [**] [119:260:1] "(http_inspect) HTTP Content-Length message body was truncated" [**] [Priority: 3] {TCP} 172.16.0.131:49227 -> 198.185.159.144:80
+02/23-14:34:35.037190 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 213.186.33.5:80 -> 172.16.0.131:49228
+02/23-14:34:35.037190 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 213.186.33.5:80 -> 172.16.0.131:49228
+02/23-14:34:40.387482 [**] [119:281:1] "(http_inspect) invalid request line" [**] [Priority: 3] {TCP} 66.29.145.216:80 -> 172.16.0.131:49229
+02/23-14:34:40.387482 [**] [119:201:1] "(http_inspect) not HTTP traffic or unrecoverable HTTP protocol error" [**] [Priority: 3] {TCP} 66.29.145.216:80 -> 172.16.0.131:49229
+02/23-14:34:45.234130 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:48.897278 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:34:49.234661 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:35:08.098549 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:35:17.599293 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:35:38.896948 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:36:19.399663 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:36:51.102183 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:37:01.101108 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:37:01.237489 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:37:17.603191 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:37:24.784554 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:37:24.787304 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:37:24.789196 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:37:24.790834 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:37:24.899441 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:37:25.257053 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:37:45.641202 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:37:45.646122 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:37:45.648131 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:37:45.649274 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:37:46.104627 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:38:19.401722 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:38:29.249583 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:38:33.440372 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:38:33.445800 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:38:33.448569 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:38:33.448761 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:38:33.904050 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:38:38.402919 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:39:17.606289 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:39:20.241501 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:39:20.606059 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:39:43.741665 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:39:54.106486 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:39:54.242486 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:40:19.405092 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:40:38.406699 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:40:55.259482 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:40:55.407676 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:41:17.610238 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:42:19.410335 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:42:28.110882 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:42:38.410303 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:43:17.612602 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:43:50.612913 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:44:10.114493 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:44:10.249359 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:44:19.412503 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:44:38.413766 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:44:56.249988 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:44:56.411792 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:45:17.614452 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:45:50.615545 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:46:19.409724 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:46:38.395336 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:47:17.591704 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:47:50.591704 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:48:19.390525 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:48:38.391747 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:49:02.229526 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:49:02.393327 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:49:09.594185 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:49:09.729612 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:49:17.594574 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:49:50.596977 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:50:19.393978 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:51:17.597331 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:51:50.597393 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:52:19.397441 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:52:24.809967 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:52:24.813049 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:52:24.814078 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:52:24.815815 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:52:25.250637 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.131 -> 224.0.0.22
+02/23-14:52:38.397803 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:52:45.669937 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:52:45.675002 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:52:45.676749 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:52:45.677224 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:52:46.100852 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.170 -> 224.0.0.22
+02/23-14:52:50.601216 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:53:17.599513 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:53:33.483268 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:53:33.488575 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:53:33.490798 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:53:33.490985 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:53:33.899019 [**] [116:444:1] "(ipv4) IPv4 option set" [**] [Priority: 3] {IP} 172.16.0.149 -> 224.0.0.22
+02/23-14:53:38.400216 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:54:10.237403 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:54:19.400735 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:54:50.602341 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:54:56.739433 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:55:17.602960 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:55:38.402588 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:56:19.403843 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:56:47.742134 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:56:50.606346 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:10.607330 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:10.742306 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:17.607795 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:19.405695 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:19.742554 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:59.406434 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:57:59.744575 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:58:04.608643 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:58:19.407289 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:58:20.244806 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:58:21.609093 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:58:21.744122 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:59:17.625154 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-14:59:19.611025 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:00:19.410268 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:00:27.612089 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:01:17.613168 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:01:38.413665 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:02:19.412958 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:02:40.115295 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:03:15.084858 [**] [122:3:1] "(port_scan) TCP portsweep" [**] [Priority: 3] {TCP} 172.16.0.170:54157 -> 103.41.204.169:8080
+02/23-15:03:17.615953 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:03:38.416124 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:04:10.120502 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:04:10.254017 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:04:19.416711 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:04:52.119920 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:04:56.417595 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:04:56.757105 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:05:17.620063 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:05:38.419502 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:05:38.621908 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:05:46.620187 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:05:52.163655 [**] [122:3:1] "(port_scan) TCP portsweep" [**] [Priority: 3] {TCP} 172.16.0.170:54165 -> 37.44.244.177:8080
+02/23-15:05:52.568786 [**] [116:442:1] "(icmp4) ICMP destination unreachable communication with destination host is administratively prohibited" [**] [Priority: 3] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:52.568786 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:53.490362 [**] [116:442:1] "(icmp4) ICMP destination unreachable communication with destination host is administratively prohibited" [**] [Priority: 3] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:53.490362 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:54.416830 [**] [116:442:1] "(icmp4) ICMP destination unreachable communication with destination host is administratively prohibited" [**] [Priority: 3] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:54.416830 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:55.122695 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:05:55.333579 [**] [116:442:1] "(icmp4) ICMP destination unreachable communication with destination host is administratively prohibited" [**] [Priority: 3] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:05:55.333579 [**] [1:1000001:1] "ICMP Packet Detected" [**] [Priority: 0] {ICMP} 37.44.244.177 -> 172.16.0.170
+02/23-15:06:02.120825 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:06:06.622098 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:06:06.757659 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:06:19.420219 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:06:50.622670 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:07:05.122136 [**] [112:1:1] "(arp_spoof) unicast ARP request" [**] [Priority: 3] {ARP}  -> 
+02/23-15:07:05.141800 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 120.55.51.124:80 -> 172.16.0.131:49205
+02/23-15:07:05.141800 [**] [119:260:1] "(http_inspect) HTTP Content-Length message body was truncated" [**] [Priority: 3] {TCP} 198.185.159.144:80 -> 172.16.0.131:49207
+02/23-15:07:05.141800 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 104.21.89.147:80 -> 172.16.0.131:49212
+02/23-15:07:05.141800 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 104.16.12.194:80 -> 172.16.0.131:49216
+02/23-15:07:05.141800 [**] [119:261:1] "(http_inspect) HTTP chunked message body was truncated" [**] [Priority: 3] {TCP} 173.231.37.114:80 -> 172.16.0.131:49225
